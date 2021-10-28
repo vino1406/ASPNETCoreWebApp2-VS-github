@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\VINOTH\\Git_DevOps\\Git_Repo\\ASPNETCoreWebApp2-VS\\NUnitTestCasesWepAPP2-VS\\NUnitTestCasesWepAPP2-VS.csproj": {}
+  },
+  "projects": {
+    "C:\\VINOTH\\Git_DevOps\\Git_Repo\\ASPNETCoreWebApp2-VS\\NUnitTestCasesWepAPP2-VS\\NUnitTestCasesWepAPP2-VS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VINOTH\\Git_DevOps\\Git_Repo\\ASPNETCoreWebApp2-VS\\NUnitTestCasesWepAPP2-VS\\NUnitTestCasesWepAPP2-VS.csproj",
+        "projectName": "NUnitTestCasesWepAPP2-VS",
+        "projectPath": "C:\\VINOTH\\Git_DevOps\\Git_Repo\\ASPNETCoreWebApp2-VS\\NUnitTestCasesWepAPP2-VS\\NUnitTestCasesWepAPP2-VS.csproj",
+        "packagesPath": "C:\\Users\\vinoth.jeyaraj\\.nuget\\packages\\",
+        "outputPath": "C:\\VINOTH\\Git_DevOps\\Git_Repo\\ASPNETCoreWebApp2-VS\\NUnitTestCasesWepAPP2-VS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vinoth.jeyaraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
